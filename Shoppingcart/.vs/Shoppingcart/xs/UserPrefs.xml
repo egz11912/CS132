@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{16352C97-9B07-48B3-BBAE-6841D29A8DD0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Shoppingcart/Views/Products/GetAllProducts.cshtml">
+    <Files>
+      <File FileName="Shoppingcart/Controllers/ProductsController.cs" Line="61" Column="38" IsPinned="True" />
+      <File FileName="Shoppingcart/Views/Home/Index.cshtml" />
+      <File FileName="Shoppingcart/Startup.cs" />
+      <File FileName="Shoppingcart/Program.cs" />
+      <File FileName="Shoppingcart/Models/Product.cs" />
+      <File FileName="Shoppingcart/Views/Shared/_Layout.cshtml" />
+      <File FileName="Shoppingcart/Views/Home/Privacy.cshtml" />
+      <File FileName="Shoppingcart/Controllers/HomeController.cs" />
+      <File FileName="Shoppingcart/Views/Home/_TestPage.cshtml" />
+      <File FileName="Shoppingcart/Views/_ViewStart.cshtml" />
+      <File FileName="Shoppingcart/Views/Shared/_OtherLayout.cshtml" />
+      <File FileName="Shoppingcart/Views/Products/GetAllProducts.cshtml" Line="32" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Shoppingcart" expanded="True">
+            <Node name="Shoppingcart" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Products" expanded="True">
+                  <Node name="GetAllProducts.cshtml" selected="True" />
+                </Node>
+                <Node name="Shared" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Shoppingcart PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
