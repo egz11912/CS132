@@ -350,6 +350,5 @@
 /Users/ericzuniga/Desktop/CS 132 Shopping Cart/Shoppingcart/Shoppingcart/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
 /Users/ericzuniga/Desktop/CS 132 Shopping Cart/Shoppingcart/Shoppingcart/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
 /Users/ericzuniga/Desktop/CS 132 Shopping Cart/Shoppingcart/Shoppingcart/obj/Debug/netcoreapp3.1/Shoppingcart.MvcApplicationPartsAssemblyInfo.cs
-/Users/ericzuniga/Desktop/CS 132 Shopping Cart/Shoppingcart/Shoppingcart/obj/Debug/netcoreapp3.1/Razor/Views/Home/_TestPage.cshtml.g.cs
 /Users/ericzuniga/Desktop/CS 132 Shopping Cart/Shoppingcart/Shoppingcart/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_OtherLayout.cshtml.g.cs
 /Users/ericzuniga/Desktop/CS 132 Shopping Cart/Shoppingcart/Shoppingcart/obj/Debug/netcoreapp3.1/Razor/Views/Products/GetAllProducts.cshtml.g.cs
